@@ -6,4 +6,4 @@ function yardGreening(input) {
 
 }
 
-yardGreening([550])
+yardGreening([550]) 
