@@ -1,11 +1,3 @@
 # Javascript-Basics
 
-
-Умения, които ще придобиеш
-
-    Работа с конзолата (вход и изход на данни)
-    Работа с цикли (for)
-    Работа с по-сложни логически проверки
-    Работа с логически проверки (if-else)
-    Извършване на прости пресмятания
-    Работа с по-сложни цикли (вложени for цикли и while)
+The course includes writing entry-level programming code (basic coding skills), working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input and printing results), using of conditional constructions (if, if-else) and loops (for, while, do-while).
